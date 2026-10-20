@@ -57,7 +57,7 @@
 ### ◆ Find me after the show
 
 <p>
-  <img src="https://img.shields.io/badge/Discord-YOUR_DISCORD-0D0B0C?style=for-the-badge&logo=discord&logoColor=992D22" alt="Discord">
+  <img src="https://img.shields.io/badge/Discord-YOUR_DISCORD-0D0B0C?style=for-the-badge&logo=discord&logoColor=992D22" alt="ceaselessstudio">
 </p>
 
 <p align="center"><sub>◆ the grin stays on, the work never stops ◆</sub></p>
