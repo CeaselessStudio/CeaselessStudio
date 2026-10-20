@@ -2,8 +2,7 @@
   Ceaseless Studio — GitHub profile README
   1. Create a public repo named exactly like your GitHub username.
   2. Put this file in its root as README.md and the banner at assets/banner.png.
-  3. Replace YOUR_DISCORD below with your Discord handle.
-  4. Keep only the stack badges you actually use.
+  3. Keep only the stack badges you actually use.
 -->
 
 <p align="center">
@@ -23,17 +22,17 @@
 
 - 🃏 I build **Discord bots** and the little tools that keep a server running while nobody's watching.
 - 🖋 I translate and proofread **visual novels into Russian**, currently proofreading *The Last Embrace* (NoX Productions).
-- 🎪 I help run **Discord communities**: roles, permissions, supporter tiers, the whole circus.
+- 🎪 I moderate and help run **Discord communities**: roles, permissions, supporter tiers, the whole circus.
 - 🕯 Everything I make lives under one name: **Ceaseless Studio**.
 
 ### ◆ The act
 
-<!-- Add your repos here. One row per project. -->
-
-| Project | What it does |
-| --- | --- |
-| [project-name](https://github.com/CeaselessStudio/project-name) | Short description of the bot or tool |
-| [project-name](https://github.com/CeaselessStudio/project-name) | Short description of the bot or tool |
+| Act | Role | What happens behind the curtain |
+| --- | --- | --- |
+| 🖋 **[The Last Embrace](https://store.steampowered.com/app/4437270/The_Last_Embrace_Book_One/)** | Proofreader (RU) | Russian proofreading for the visual novel by NoX Productions |
+| 🎪 **[Driven By Desire](https://kloppstyle.itch.io/driven-by-desire)** | Discord moderator | Keeping order on the visual novel's Discord server |
+| 🃏 **Ceaseless Studio** | Bot · Creator & owner | Built and run entirely by me. The backstage of a modeling agency: contracts, roles and reports, so the runway show never stops |
+| 🕯 **Maria** | Bot · Developer | Cease's personal assistant on the Driven By Desire Discord server |
 
 ### ◆ Tools of the trade
 
@@ -51,7 +50,13 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=CeaselessStudio&show_icons=true&bg_color=0D0B0C&title_color=992D22&text_color=EDE8E0&icon_color=992D22&border_color=3A3436&hide_rank=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CeaselessStudio&layout=compact&bg_color=0D0B0C&title_color=992D22&text_color=EDE8E0&border_color=3A3436" alt="Top languages">
+</p>
+
+### ◆ Tongues I speak
+
+<p>
+  <img src="https://img.shields.io/badge/Russian-native-992D22?style=for-the-badge&labelColor=0D0B0C" alt="Russian — native">
+  <img src="https://img.shields.io/badge/English-fluent-8E8A8F?style=for-the-badge&labelColor=0D0B0C" alt="English — fluent">
 </p>
 
 ### ◆ Find me after the show
