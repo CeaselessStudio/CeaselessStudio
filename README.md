@@ -32,7 +32,7 @@
 | 🖋 **[The Last Embrace](https://store.steampowered.com/app/4437270/The_Last_Embrace_Book_One/)** | Proofreader (RU) | Russian proofreading for the visual novel by NoX Productions |
 | 🎪 **[Driven By Desire](https://kloppstyle.itch.io/driven-by-desire)** | Discord moderator | Keeping order on the visual novel's Discord server |
 | 🃏 **Ceaseless Studio** | Bot · Creator & owner | Built and run entirely by me. The backstage of a modeling agency: contracts, roles and reports, so the runway show never stops |
-| 🕯 **Maria** | Bot · Developer | Cease's personal assistant on the Driven By Desire Discord server |
+| 🕯 **Maria** | Bot · Creator & owner | Cease's personal assistant on the Driven By Desire Discord server |
 
 ### ◆ Tools of the trade
 
