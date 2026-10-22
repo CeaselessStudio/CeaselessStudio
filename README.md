@@ -12,7 +12,7 @@
 <h3 align="center">Behind the painted grin: Discord bots, automation & visual novel localization.</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/the%20show-never%20stops-992D22?style=flat-square&labelColor=0D0B0C" alt="the show never stops">
+  <img src="https://img.shields.io/badge/backstage-pass-992D22?style=flat-square&labelColor=0D0B0C" alt="backstage pass">
   <img src="https://img.shields.io/badge/based%20in-Russia-8E8A8F?style=flat-square&labelColor=0D0B0C" alt="based in Russia">
 </p>
 
