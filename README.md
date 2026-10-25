@@ -22,7 +22,7 @@
 
 - 🃏 I build **Discord bots** and the little tools that keep a server running while nobody's watching.
 - 🖋 I translate and proofread **visual novels into Russian**, currently proofreading *The Last Embrace* (NoX Productions).
-- 🎪 I moderate and help run **Discord communities**: roles, permissions, supporter tiers, the whole circus.
+- 🎪 I run the backstage of **Discord communities**: roles, permissions, supporter tiers, the whole circus.
 - 🕯 Everything I make lives under one name: **Ceaseless Studio**.
 
 ### ◆ The act
