@@ -49,7 +49,7 @@
 ### ◆ The ledger
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CeaselessStudio&show_icons=true&bg_color=0D0B0C&title_color=992D22&text_color=EDE8E0&icon_color=992D22&border_color=3A3436&hide_rank=true" alt="GitHub stats">
+  <img width="900" src="assets/ledger.png" alt="The ledger: 02 bots in production, 01 novel in proofreading, 04 acts on the bill">
 </p>
 
 ### ◆ Tongues I speak
