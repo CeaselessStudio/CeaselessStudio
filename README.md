@@ -18,12 +18,16 @@
 
 <p align="center">◆ ◇ ◆ ◇ <b>◆</b> ◇ ◆ ◇ ◆</p>
 
+<p align="center">
+  <a href="https://github.com/Ceaseless-Studio"><b>◆ the whole backstage → github.com/Ceaseless-Studio</b></a>
+</p>
+
 ### ◆ Who's behind the mask
 
 - 🃏 I build **Discord bots** and the little tools that keep a server running while nobody's watching.
 - 🖋 I translate and proofread **visual novels into Russian**, currently proofreading *The Last Embrace* (NoX Productions).
 - 🎪 I run the backstage of **Discord communities**: roles, permissions, supporter tiers, the whole circus.
-- 🕯 Everything I make lives under one name: **Ceaseless Studio**.
+- 🕯 Everything I make lives under one name: **[Ceaseless Studio](https://github.com/Ceaseless-Studio)** - every bot, every repo, the whole show.
 
 ### ◆ The act
 
@@ -31,7 +35,7 @@
 | --- | --- | --- |
 | 🖋 **[The Last Embrace](https://store.steampowered.com/app/4437270/The_Last_Embrace_Book_One/)** | Proofreader (RU) | Russian proofreading for the visual novel by NoX Productions |
 | 🎪 **[Driven By Desire](https://kloppstyle.itch.io/driven-by-desire)** | Discord backstage manager | Running the backstage of the visual novel's Discord server |
-| 🃏 **Ceaseless Studio** | Bot · Creator & owner | Built and run entirely by me. The backstage of a modeling agency: contracts, roles and reports, so the runway show never stops |
+| 🃏 **[Ceaseless Studio](https://github.com/Ceaseless-Studio)** | Bot · Creator & owner | Built and run entirely by me. The backstage of a modeling agency: contracts, roles and reports, so the runway show never stops |
 | 🕯 **Maria** | Bot · Creator & owner | Cease's personal assistant on the Driven By Desire Discord server |
 
 ### ◆ Tools of the trade
@@ -62,6 +66,8 @@
 ### ◆ Find me after the show
 
 <p>
+  <a href="https://github.com/Ceaseless-Studio"><img src="https://img.shields.io/badge/GitHub-Ceaseless--Studio-0D0B0C?style=for-the-badge&logo=github&logoColor=992D22" alt="Ceaseless-Studio on GitHub"></a>
+  <a href="https://ceaseless-studio.github.io"><img src="https://img.shields.io/badge/Website-ceaseless--studio.github.io-0D0B0C?style=for-the-badge&logo=githubpages&logoColor=992D22" alt="ceaseless-studio.github.io"></a>
   <img src="https://img.shields.io/badge/Discord-ceaselessstudio-0D0B0C?style=for-the-badge&logo=discord&logoColor=992D22" alt="ceaselessstudio">
 </p>
 
